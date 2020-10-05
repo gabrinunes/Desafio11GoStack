@@ -63,4 +63,4 @@ $ adb reverse tcp:3333 tcp:3333
 ```
 <hr>
 
-Made with :heart: by Yesmin Marie
+Made with :heart: by Gabriel Nunes da Cunha
